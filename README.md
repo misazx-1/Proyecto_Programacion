@@ -11,3 +11,6 @@ Lo que haremos a la base de datos es lo siguiente:
 - Realizar una gráfica que muestre el porcentaje de la población, respecto a la población total de cada estado, con índices de marginación.
 - Ver la relacion que hay entre las dos graficas anteriores
 - Desarrollar un nuevo data frame con indicadores adicionales
+
+
+La base de datos está en esta pagina https://www.gob.mx/conapo/documentos/indices-de-marginacion-2020-284372
